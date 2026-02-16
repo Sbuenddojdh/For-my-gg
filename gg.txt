@@ -4039,7 +4039,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "🇲 🇮 🇱 🇦 🇩 - ғᴇʙ 16",
+  "remarks": "🇲 🇮 🇱 🇦 🇩 - ғᴇʙ 16 دوشنبه",
   "routing": {
     "balancers": [
       {
