@@ -1,0 +1,5113 @@
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com",
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "dns.cloudflare.com": [
+        "104.16.132.229",
+        "104.16.133.229",
+        "2606:4700::6810:84e5",
+        "2606:4700::6810:85e5"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.248.249",
+        "104.16.249.249",
+        "2606:4700::6810:f8f9",
+        "2606:4700::6810:f9f9"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ],
+      "185.158.133.138": "185.158.133.138",
+      "190.93.246.138": "190.93.246.138",
+      "141.94.206.137": "141.94.206.137",
+      "nodejs.org": [
+        "172.66.128.70",
+        "104.20.1.252"
+      ],
+      "143.42.4.6": "143.42.4.6",
+      "130.185.164.214": "130.185.164.214",
+      "159.203.144.233": "159.203.144.233",
+      "188.114.98.0": "188.114.98.0",
+      "54.95.94.250": "54.95.94.250",
+      "138.2.12.103": "138.2.12.103",
+      "140.238.37.103": "140.238.37.103",
+      "89.116.161.138": "89.116.161.138",
+      "185.16.110.1": "185.16.110.1",
+      "57.129.47.12": "57.129.47.12",
+      "190.93.244.138": "190.93.244.138",
+      "45.149.12.138": "45.149.12.138",
+      "57.128.178.196": "57.128.178.196",
+      "167.71.136.139": "167.71.136.139",
+      "172.67.153.156": "172.67.153.156",
+      "45.144.31.45": "45.144.31.45",
+      "s1.db-link.in": [
+        "104.16.250.22",
+        "104.21.224.5",
+        "104.21.227.134",
+        "104.18.185.26",
+        "104.17.25.173"
+      ],
+      "49.13.64.206": "49.13.64.206",
+      "185.162.230.138": "185.162.230.138",
+      "v3.dabache.top": [
+        "188.114.98.0",
+        "188.114.99.0"
+      ],
+      "51.77.140.38": "51.77.140.38",
+      "172.64.152.23": "172.64.152.23",
+      "213.35.108.135": "213.35.108.135",
+      "8.223.63.150": "8.223.63.150",
+      "57.129.64.102": "57.129.64.102",
+      "144.24.73.232": "144.24.73.232",
+      "217.142.230.253": "217.142.230.253",
+      "43.205.45.56": "43.205.45.56",
+      "141.147.162.24": "141.147.162.24",
+      "57.129.137.58": "57.129.137.58",
+      "108.165.216.138": "108.165.216.138",
+      "188.114.96.3": "188.114.96.3",
+      "138.3.222.124": "138.3.222.124",
+      "129.154.222.63": "129.154.222.63",
+      "51.79.158.58": "51.79.158.58",
+      "45.8.211.138": "45.8.211.138",
+      "168.138.192.16": "168.138.192.16",
+      "104.21.40.34": "104.21.40.34",
+      "172.66.128.70": "172.66.128.70",
+      "37.27.243.248": "37.27.243.248",
+      "129.153.77.88": "129.153.77.88",
+      "45.38.42.198": "45.38.42.198",
+      "104.21.224.5": "104.21.224.5",
+      "167.99.80.91": "167.99.80.91",
+      "www.speedtest.net": [
+        "104.17.148.22",
+        "104.17.147.22"
+      ],
+      "pq-india1.09vpn.com": "45.89.105.56",
+      "5.10.246.238": "5.10.246.238",
+      "38.180.249.123": "38.180.249.123",
+      "185.162.229.238": "185.162.229.238",
+      "181.214.1.238": "181.214.1.238",
+      "104.21.86.233": "104.21.86.233",
+      "178.32.42.230": "178.32.42.230",
+      "185.162.231.238": "185.162.231.238",
+      "172.64.155.209": "172.64.155.209",
+      "57.129.137.56": "57.129.137.56",
+      "104.18.109.147": "104.18.109.147",
+      "158.101.11.204": "158.101.11.204",
+      "27.50.48.238": "27.50.48.238",
+      "162.251.82.238": "162.251.82.238",
+      "212.183.88.238": "212.183.88.238",
+      "139.144.77.176": "139.144.77.176",
+      "57.129.137.200": "57.129.137.200",
+      "all.tellmethetrue.shop": [
+        "104.26.14.85",
+        "104.26.15.85",
+        "172.67.73.163"
+      ],
+      "54.37.73.185": "54.37.73.185",
+      "144.24.90.107": "144.24.90.107",
+      "209.38.225.184": "209.38.225.184",
+      "130.162.130.105": "130.162.130.105",
+      "adf.ly": [
+        "188.114.97.6",
+        "188.114.96.6"
+      ],
+      "194.59.5.238": "194.59.5.238",
+      "138.3.222.33": "138.3.222.33",
+      "v1.dabache.top": [
+        "172.66.44.211",
+        "172.66.47.45"
+      ],
+      "66.235.200.238": "66.235.200.238",
+      "104.26.0.221": "104.26.0.221",
+      "172.67.204.84": "172.67.204.84",
+      "184.174.80.238": "184.174.80.238",
+      "172.67.180.227": "172.67.180.227",
+      "188.165.137.202": "188.165.137.202",
+      "194.195.240.210": "194.195.240.210",
+      "188.245.108.104": "188.245.108.104",
+      "207.246.97.82": "207.246.97.82",
+      "139.144.77.170": "139.144.77.170",
+      "104.18.32.47": "104.18.32.47",
+      "20.33.23.66": "20.33.23.66",
+      "199.247.23.140": "199.247.23.140",
+      "192.200.160.238": "192.200.160.238",
+      "51.38.51.14": "51.38.51.14",
+      "n1761184273.mv7wh.tech": "47.76.252.138"
+    },
+    "servers": [
+      "1.1.1.1",
+      {
+        "address": "1.1.1.1",
+        "domains": [
+          "domain:googleapis.cn",
+          "domain:gstatic.com"
+        ]
+      },
+      {
+        "address": "223.5.5.5",
+        "domains": [
+          "domain:alidns.com",
+          "domain:doh.pub",
+          "domain:dot.pub",
+          "domain:360.cn",
+          "domain:onedns.net",
+          "geosite:cn"
+        ],
+        "expectIPs": [
+          "geoip:cn"
+        ],
+        "skipFallback": true,
+        "tag": "domestic-dns"
+      }
+    ],
+    "tag": "dns-module"
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true,
+        "routeOnly": false
+      },
+      "tag": "socks"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "observatory": {
+    "enableConcurrency": true,
+    "probeInterval": "3m",
+    "probeUrl": "https://www.gstatic.com/generate_204",
+    "subjectSelector": [
+      "proxy-"
+    ]
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.158.133.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-1"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "190.93.246.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-2"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "141.94.206.137",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@app_bedal"
+        }
+      },
+      "tag": "proxy-3"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "nodejs.org",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "33e1a095-1e25-4198-bfe7-ec312e4f98ee",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "credible-plant7ddv4jj7et.oneeat.co."
+          },
+          "path": "/?ed"
+        }
+      },
+      "tag": "proxy-4"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "143.42.4.6",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-5"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "130.185.164.214",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-6"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "159.203.144.233",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-7"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "188.114.98.0",
+            "level": 8,
+            "ota": false,
+            "password": "humanity",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "www.multiplydose.com",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "www.multiplydose.com"
+          },
+          "path": "/assignment"
+        }
+      },
+      "tag": "proxy-8"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "54.95.94.250",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-9"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "138.2.12.103",
+            "port": 14453,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-10"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "140.238.37.103",
+            "port": 14782,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-11"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "89.116.161.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-12"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.16.110.1",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&40opiran🎖@opiranso"
+        }
+      },
+      "tag": "proxy-13"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.129.47.12",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-14"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "190.93.244.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-15"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.149.12.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-16"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.128.178.196",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-17"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "167.71.136.139",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🎖@alixtso"
+        }
+      },
+      "tag": "proxy-18"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.153.156",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "ovhwuxian.pai50288.uk",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": ""
+          },
+          "path": "/57ba2ab1"
+        }
+      },
+      "tag": "proxy-19"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.144.31.45",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🎖@alixtso"
+        }
+      },
+      "tag": "proxy-20"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "s1.db-link.in",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "305419ed-4ef5-3e5a-8d48-b803c58853d3",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "s6.oboob.cn",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "s6.oboob.cn"
+          },
+          "path": "/db10248afdcb0daf"
+        }
+      },
+      "tag": "proxy-21"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "49.13.64.206",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-22"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.162.230.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-23"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "v3.dabache.top",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-24"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "51.77.140.38",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-25"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "172.64.152.23",
+            "level": 8,
+            "ota": false,
+            "password": "humanity",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "www.creationlong.org",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "www.creationlong.org"
+          },
+          "path": "/assignment"
+        }
+      },
+      "tag": "proxy-26"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "213.35.108.135",
+            "port": 12596,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-27"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "8.223.63.150",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-28"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.129.64.102",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "nasnet",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "raw",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "randomized",
+          "serverName": "nasnet-5712964102-direct.sharghdaily.co",
+          "show": false
+        }
+      },
+      "tag": "proxy-29"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "144.24.73.232",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-30"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.142.230.253",
+            "port": 587,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-31"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "43.205.45.56",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇮🇷 @shadowproxy66"
+        }
+      },
+      "tag": "proxy-32"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "141.147.162.24",
+            "port": 1235,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-33"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.129.137.58",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-34"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "108.165.216.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-35"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "188.114.96.3",
+            "level": 8,
+            "ota": false,
+            "password": "humanity",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "www.multiplydose.com",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": ""
+          },
+          "path": "%2fassignment"
+        }
+      },
+      "tag": "proxy-36"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "138.3.222.124",
+            "port": 46209,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-37"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "129.154.222.63",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-38"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "190.93.244.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-39"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "51.79.158.58",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-40"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.8.211.138",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-41"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "168.138.192.16",
+            "port": 54584,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-42"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "104.21.40.34",
+            "level": 8,
+            "ota": false,
+            "password": "humanity",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "www.gossipglove.com",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "www.gossipglove.com"
+          },
+          "path": "/assignment"
+        }
+      },
+      "tag": "proxy-43"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.66.128.70",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "4c97ec3e-3527-48c5-80ff-b715463896ba",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "kindhearted-parkb5rjo2juer.sportland.company."
+          },
+          "path": "/?ed"
+        }
+      },
+      "tag": "proxy-44"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "37.27.243.248",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-45"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "188.114.96.3",
+            "level": 8,
+            "ota": false,
+            "password": "humanity",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "www.gossipglove.com",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "www.gossipglove.com"
+          },
+          "path": "/assignment"
+        }
+      },
+      "tag": "proxy-46"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "129.153.77.88",
+            "port": 35250,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-47"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.38.42.198",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-48"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.224.5",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "686c62d9-17a7-43c9-a40a-f6747df60a9f",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "ca.adobe-connect.top",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "ca.adobe-connect.top"
+          },
+          "path": "/"
+        }
+      },
+      "tag": "proxy-49"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "167.99.80.91",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🎖@alixtso"
+        }
+      },
+      "tag": "proxy-50"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "www.speedtest.net",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "0836463b-214f-4af6-aa85-85a56a62388e",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "randomized",
+          "serverName": "d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev"
+          },
+          "path": "/8eazjhrwb5zzdy81?ed=2560"
+        }
+      },
+      "tag": "proxy-51"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "pq-india1.09vpn.com",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "5a54a377-a9d3-4ea5-b7b0-17bd899e202d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": ""
+          },
+          "path": "/vless/"
+        }
+      },
+      "tag": "proxy-52"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "5.10.246.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-53"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "38.180.249.123",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-54"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.162.229.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-55"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "181.214.1.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-56"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.86.233",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "49d598ee-4dfc-4001-95ca-99a5b6002e3c",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev"
+          },
+          "path": "/ws"
+        }
+      },
+      "tag": "proxy-57"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "s1.db-link.in",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "9523a24b-f6bf-339e-9950-32829162ffc2",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "h3",
+            "h2"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "dabaif0.webn.cc",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "dabaif0.webn.cc"
+          },
+          "path": "/db1024f4e56f542c"
+        }
+      },
+      "tag": "proxy-58"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "178.32.42.230",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-59"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.162.231.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-60"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.64.155.209",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "686c62d9-17a7-43c9-a40a-f6747df60a9f",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "ca.adobe-connect.top",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "ca.adobe-connect.top"
+          },
+          "path": "/"
+        }
+      },
+      "tag": "proxy-61"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.129.137.56",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "3321a819-889d-40b3-b8fa-f34208827ef1",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
+          ],
+          "serverName": "o00o.snip.qzz.io",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "o00o.snip.qzz.io"
+          },
+          "path": "/proxyip=sjc.o00o.ooo"
+        }
+      },
+      "tag": "proxy-62"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.18.109.147",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "c29d39bd-92a4-45db-bb61-56013998617c",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com"
+          },
+          "path": "/telegram-xv2ry2?ed=2048"
+        }
+      },
+      "tag": "proxy-63"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "158.101.11.204",
+            "level": 8,
+            "ota": false,
+            "password": "iwangjie",
+            "port": 15805
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "nodes.830901.xyz",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "nodes.830901.xyz"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-64"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "27.50.48.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-65"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.251.82.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-66"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.129.137.56",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "3321a819-889d-40b3-b8fa-f34208827ef1",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "o00o.snip.qzz.io",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "o00o.snip.qzz.io"
+          },
+          "path": "/proxyip=sjc.o00o.ooo"
+        }
+      },
+      "tag": "proxy-67"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "212.183.88.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-68"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "139.144.77.176",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-69"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.129.137.200",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-70"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "all.tellmethetrue.shop",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "e4824193-4f54-453b-d037-88368e85ef0e",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "grpcSettings": {
+          "authority": "",
+          "health_check_timeout": 20,
+          "idle_timeout": 60,
+          "multiMode": false,
+          "serviceName": ""
+        },
+        "network": "grpc",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "h2"
+          ],
+          "serverName": "pqh29v6.carwashipdir.shop",
+          "show": false
+        }
+      },
+      "tag": "proxy-71"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "54.37.73.185",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-72"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "144.24.90.107",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-73"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "209.38.225.184",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🎖@alixtso"
+        }
+      },
+      "tag": "proxy-74"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "130.162.130.105",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-75"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "adf.ly",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "1679af35-6dd6-4c09-ae3b-18f239217f3e",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "rayan-007.parvin.dpdns.org",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "rayan-007.parvin.dpdns.org"
+          },
+          "path": "/?ed=2560fp=chrome"
+        }
+      },
+      "tag": "proxy-76"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "194.59.5.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-77"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "138.3.222.33",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-78"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "v1.dabache.top",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "1e823993-86ac-3ead-89b5-227e73825fdb",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "dabaif0.webn.cc",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "dabaif0.webn.cc"
+          },
+          "path": "/db1024faebdb62e0"
+        }
+      },
+      "tag": "proxy-79"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.18.109.147",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "c29d39bd-92a4-45db-bb61-56013998617c",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com"
+          },
+          "path": "/🔒 [by ebrasha]"
+        }
+      },
+      "tag": "proxy-80"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "66.235.200.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-81"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.26.0.221",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "3f9c8463-8610-3ed8-86c8-a26713067825",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "dabaius2.sylu.net",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "dabaius2.sylu.net"
+          },
+          "path": "/db10240eb751d6ab"
+        }
+      },
+      "tag": "proxy-82"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.204.84",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "169221de-6408-4143-9e66-6f77de385e94",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "cassiusvpn-cassiusvpn-000.stat-4.workers.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "cassiusvpn-cassiusvpn-000.stat-4.workers.dev"
+          },
+          "path": "/@v2raybaaz?ed"
+        }
+      },
+      "tag": "proxy-83"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "184.174.80.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-84"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "172.67.180.227",
+            "level": 8,
+            "ota": false,
+            "password": "bpb-trojan",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "h3"
+          ],
+          "fingerprint": "randomized",
+          "serverName": "mashdt.pages.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "mashdt.pages.dev"
+          },
+          "path": "/tr?ed=2560"
+        }
+      },
+      "tag": "proxy-85"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "188.165.137.202",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-86"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "194.195.240.210",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-87"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "188.245.108.104",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳@wangcai2"
+        }
+      },
+      "tag": "proxy-88"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "207.246.97.82",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳 @wangcai2"
+        }
+      },
+      "tag": "proxy-89"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "139.144.77.170",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-90"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.64.152.23",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "8196d16d-855b-42bc-80f4-b5db138c5572",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "h3",
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "test2.testrobot.site",
+          "show": false
+        },
+        "xhttpSettings": {
+          "host": "test2.testrobot.site",
+          "mode": "auto",
+          "path": "/randomibash043"
+        }
+      },
+      "tag": "proxy-91"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.64.152.23",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "8196d16d-855b-42bc-80f4-b5db138c5572",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "test2.testrobot.site",
+          "show": false
+        },
+        "xhttpSettings": {
+          "host": "",
+          "mode": "auto",
+          "path": "/randomibash043"
+        }
+      },
+      "tag": "proxy-92"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "57.129.137.200",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-93"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.18.32.47",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "ovhwuxian.pai50288.uk",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "ovhwuxian.pai50288.uk"
+          },
+          "path": "/57ba2ab1"
+        }
+      },
+      "tag": "proxy-94"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "20.33.23.66",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-95"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "199.247.23.140",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-96"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.224.5",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "e5f8a9f6-f164-479b-b3b5-b90f213c7145",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "ir1.airpanel.top",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "ir1.airpanel.top"
+          },
+          "path": "/"
+        }
+      },
+      "tag": "proxy-97"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "192.200.160.238",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.jpmj.dev",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.jpmj.dev"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-98"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "51.38.51.14",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "sni.111000.indevs.in",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "sni.111000.indevs.in"
+          },
+          "path": "/?ed=2560&telegram🇨🇳+@wangcai2"
+        }
+      },
+      "tag": "proxy-99"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "n1761184273.mv7wh.tech",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "a4c6bbd7-6ea5-44b2-9829-08f5ae615d49",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "chrome",
+          "serverName": "n1761184273.mv7wh.tech",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "n1761184273.mv7wh.tech"
+          },
+          "path": "/a4c6bbd7-6ea5-44b2-9829-08f5ae615d49"
+        }
+      },
+      "tag": "proxy-100"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+  "remarks": "🇲 🇮 🇱 🇦 🇩 - ғᴇʙ 17 سه شنبه",
+  "routing": {
+    "balancers": [
+      {
+        "selector": [
+          "proxy-"
+        ],
+        "strategy": {
+          "type": "leastPing"
+        },
+        "tag": "proxy-round"
+      }
+    ],
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "balancerTag": "proxy-round",
+        "domain": [
+          "domain:googleapis.cn",
+          "domain:gstatic.com"
+        ],
+        "type": "field"
+      },
+      {
+        "network": "udp",
+        "outboundTag": "block",
+        "port": "443",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "223.5.5.5",
+          "223.6.6.6",
+          "2400:3200::1",
+          "2400:3200:baba::1",
+          "119.29.29.29",
+          "1.12.12.12",
+          "120.53.53.53",
+          "2402:4e00::",
+          "2402:4e00:1::",
+          "180.76.76.76",
+          "2400:da00::6666",
+          "114.114.114.114",
+          "114.114.115.115",
+          "114.114.114.119",
+          "114.114.115.119",
+          "114.114.114.110",
+          "114.114.115.110",
+          "180.184.1.1",
+          "180.184.2.2",
+          "101.226.4.6",
+          "218.30.118.6",
+          "123.125.81.6",
+          "140.207.198.6",
+          "1.2.4.8",
+          "210.2.4.8",
+          "117.50.11.11",
+          "52.80.66.66",
+          "2400:7fc0:849e:200::4",
+          "2404:c2c0:85d8:901::4",
+          "117.50.10.10",
+          "52.80.52.52",
+          "2400:7fc0:849e:200::8",
+          "2404:c2c0:85d8:901::8"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "domain:alidns.com",
+          "domain:doh.pub",
+          "domain:dot.pub",
+          "domain:360.cn",
+          "domain:onedns.net"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "geoip:cn"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:cn"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "domestic-dns"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "inboundTag": [
+          "dns-module"
+        ],
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "network": "tcp,udp",
+        "type": "field"
+      }
+    ]
+  },
+  "stats": {}
+}
