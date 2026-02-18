@@ -961,7 +961,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "__SMT__Smart Connection: User",
+  "remarks": "🇲 🇮 🇱 🇦 🇩 ғᴇʙ 18 چهارشنبه",
   "routing": {
     "balancers": [
       {
