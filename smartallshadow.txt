@@ -2531,7 +2531,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "کانفیگ ها دائماً در حال آپدیت هستند ...-[Telegram:@XF300]",
+  "remarks": "کانفیگ ها دائماً در حال آپدیت هستند ...-[Telegram:@XF300] شنبه 02/12/1404",
   "routing": {
     "balancers": [
       {
